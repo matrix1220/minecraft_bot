@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "mineflayer": "^3.9.0",
+    "mineflayer-statemachine": "^1.6.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
